@@ -1,0 +1,40 @@
+.color {
+    background-color: #eff2f6;
+}
+
+.btn-color {
+    background: #EEF0F2;
+}
+
+input[type="search"] {
+    background-color: #EEF0F2;
+}
+
+h4 {
+    color: black;
+}
+
+.fondo {
+    background: url(../Img/fondo.jpg);
+    background-size: 800px;
+    background-attachment: fixed;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-link {
+    color: black;
+}
+
+.foto-personal {
+    border-radius: 60px;
+    padding: 10px;
+}
+
+.card {
+    border-radius: 10px;
+}
